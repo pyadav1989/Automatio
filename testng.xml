@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ImagePortal" parallel="false">
+  <test name="MavenTest">
+    <classes>
+      <class name="com.test.AppTest"/>
+      
+    </classes>
+  </test>
+</suite>
